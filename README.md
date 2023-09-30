@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ho%C3%A0ng+B%C3%A1+%C3%9D%7C+AI+ENGINEER%7C+AI+EMBEDDED" alt="Typing SVG" /></a>
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI+JETSON+NANO+%7C+AI+MOBILE+APP" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&width=435&lines=AI+JETSON+NANO+%7C+AI+MOBILE+%7CAI+ROBOTIC;Work+in+VNPAY+AI+TEAM" alt="Typing SVG" /></a>
 <br/>
 
 **Languages and Tools:**  
